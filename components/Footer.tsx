@@ -7,7 +7,7 @@ export default function Footer() {
       </h3>
       <a href="https://github.com/peterc1731">
         <img
-          src="/images/Github-Mark-64px.png"
+          src="images/GitHub-Mark-64px.png"
           alt="github"
           width="20"
           height="20"
